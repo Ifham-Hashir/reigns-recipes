@@ -1,1 +1,3 @@
 # reigns-recipes
+
+Welcome to my reigns-recipes! This endeavor is a creative and practical exploration into the world of web development, where I aim to design and develop a fully functional website dedicated to sharing delicious recipes. Throughout this project, I will be demonstrating a range of skills that encompass front-end development, showcasing my proficiency in various programming languages such as html and css.
