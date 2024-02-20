@@ -1,0 +1,23 @@
+body {
+  background-color:white;
+  color:black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list-size {
+  font-size: 20px;
+}
+
+p,li {
+  font-size: 20px;
+}
+
+img {
+  display: block;
+}
+
+h1 {
+  display: inline-block;
+  background-color: rgb(91, 136, 233);
+  margin-bottom: 20px;
+}
